@@ -1,0 +1,8 @@
+D:\OneDrive - LTTS\Desktop\Publish_Net_app\HelloWorld_Library_ClientApp.exe
+D:\OneDrive - LTTS\Desktop\Publish_Net_app\HelloWorld_Library_ClientApp.dll
+D:\OneDrive - LTTS\Desktop\Publish_Net_app\HelloWorld_Library_ClientApp.deps.json
+D:\OneDrive - LTTS\Desktop\Publish_Net_app\HelloWorld_Library_ClientApp.runtimeconfig.json
+D:\OneDrive - LTTS\Desktop\Publish_Net_app\HelloWorld_Library_ClientApp.pdb
+D:\OneDrive - LTTS\Desktop\Publish_Net_app\Humanizer.dll
+D:\OneDrive - LTTS\Desktop\Publish_Net_app\MCMathLib.dll
+D:\OneDrive - LTTS\Desktop\Publish_Net_app\MCMathLib.pdb

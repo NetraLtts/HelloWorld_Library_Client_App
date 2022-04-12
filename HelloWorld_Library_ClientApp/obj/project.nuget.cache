@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "RYzXtbA3k0mMLy262hpRVqQI0l2rSIyBCd0cNymLDWPjkXxrGFNEdSO6Fq0iL3wb2oryYk2H7LYDDtCyIAwpYg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\40024497\\source\\repos\\HelloWorld_Library_ClientApp\\HelloWorld_Library_ClientApp\\HelloWorld_Library_ClientApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\40024497\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512"
+  ],
+  "logs": []
+}

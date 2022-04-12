@@ -1,0 +1,12 @@
+C:\Users\40024497\source\repos\HelloWorld_Library_ClientApp\MCMathLib\bin\Release\net5.0\MCMathLib.deps.json
+C:\Users\40024497\source\repos\HelloWorld_Library_ClientApp\MCMathLib\bin\Release\net5.0\MCMathLib.dll
+C:\Users\40024497\source\repos\HelloWorld_Library_ClientApp\MCMathLib\bin\Release\net5.0\ref\MCMathLib.dll
+C:\Users\40024497\source\repos\HelloWorld_Library_ClientApp\MCMathLib\bin\Release\net5.0\MCMathLib.pdb
+C:\Users\40024497\source\repos\HelloWorld_Library_ClientApp\MCMathLib\obj\Release\net5.0\MCMathLib.csproj.AssemblyReference.cache
+C:\Users\40024497\source\repos\HelloWorld_Library_ClientApp\MCMathLib\obj\Release\net5.0\MCMathLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\40024497\source\repos\HelloWorld_Library_ClientApp\MCMathLib\obj\Release\net5.0\MCMathLib.AssemblyInfoInputs.cache
+C:\Users\40024497\source\repos\HelloWorld_Library_ClientApp\MCMathLib\obj\Release\net5.0\MCMathLib.AssemblyInfo.cs
+C:\Users\40024497\source\repos\HelloWorld_Library_ClientApp\MCMathLib\obj\Release\net5.0\MCMathLib.csproj.CoreCompileInputs.cache
+C:\Users\40024497\source\repos\HelloWorld_Library_ClientApp\MCMathLib\obj\Release\net5.0\MCMathLib.dll
+C:\Users\40024497\source\repos\HelloWorld_Library_ClientApp\MCMathLib\obj\Release\net5.0\ref\MCMathLib.dll
+C:\Users\40024497\source\repos\HelloWorld_Library_ClientApp\MCMathLib\obj\Release\net5.0\MCMathLib.pdb

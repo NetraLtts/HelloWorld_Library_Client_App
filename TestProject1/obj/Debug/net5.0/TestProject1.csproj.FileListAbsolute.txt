@@ -1,0 +1,6 @@
+C:\Users\40024497\source\repos\HelloWorld_Library_ClientApp\TestProject1\bin\Debug\net5.0\CoverletSourceRootsMapping
+C:\Users\40024497\source\repos\HelloWorld_Library_ClientApp\TestProject1\obj\Debug\net5.0\TestProject1.csproj.AssemblyReference.cache
+C:\Users\40024497\source\repos\HelloWorld_Library_ClientApp\TestProject1\obj\Debug\net5.0\TestProject1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\40024497\source\repos\HelloWorld_Library_ClientApp\TestProject1\obj\Debug\net5.0\TestProject1.AssemblyInfoInputs.cache
+C:\Users\40024497\source\repos\HelloWorld_Library_ClientApp\TestProject1\obj\Debug\net5.0\TestProject1.AssemblyInfo.cs
+C:\Users\40024497\source\repos\HelloWorld_Library_ClientApp\TestProject1\obj\Debug\net5.0\TestProject1.csproj.CoreCompileInputs.cache
